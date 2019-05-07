@@ -8,3 +8,7 @@
 	
 	
 	adfasdfasdgfas
+	
+	
+	ASDFASFASDGFASD
+	$ git config --global core.editor "'c:/program files (x86)/sublime text 3/sublime_text.exe' -w"
