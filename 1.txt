@@ -11,4 +11,12 @@
 	
 	
 	ASDFASFASDGFASD
-	$ git config --global core.editor "'c:/program files (x86)/sublime text 3/sublime_text.exe' -w"
+	$ git config --global core.editor "'C:\Program Files/sublime text 3/sublime_text.exe' -w"
+
+
+
+
+
+
+
+111111111111111111111111111111111111111111111
